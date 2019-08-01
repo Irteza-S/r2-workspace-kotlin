@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/r2-navigator-kotlin/r2-navigator/r2-navigator.iml" filepath="$PROJECT_DIR$/r2-navigator-kotlin/r2-navigator/r2-navigator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2-opds-kotlin/r2-opds/r2-opds.iml" filepath="$PROJECT_DIR$/r2-opds-kotlin/r2-opds/r2-opds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2-shared-kotlin/r2-shared/r2-shared.iml" filepath="$PROJECT_DIR$/r2-shared-kotlin/r2-shared/r2-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2-streamer-kotlin/r2-streamer/r2-streamer.iml" filepath="$PROJECT_DIR$/r2-streamer-kotlin/r2-streamer/r2-streamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2-testapp-kotlin/r2-testapp/r2-testapp.iml" filepath="$PROJECT_DIR$/r2-testapp-kotlin/r2-testapp/r2-testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r2-workspace-kotlin.iml" filepath="$PROJECT_DIR$/r2-workspace-kotlin.iml" />
+    </modules>
+  </component>
+</project>
